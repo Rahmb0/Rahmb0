@@ -44,7 +44,7 @@ A Python-powered app for creating detailed Dungeons & Dragons character sheets.
 ## 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/ivanmke](https://linkedin.com/in/ivanmke)
 - **Website**: [Sync Ops](https://www.sync-ops.com)
-- **Email**: ivanmke@gmail(dot)com
+- **Email**: [ivan@sync-ops.com](ivan@sync-ops.com)
 
 ---
 

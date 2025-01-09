@@ -1,4 +1,4 @@
-# 👋 Welcome to Ivan Rahman's GitHub!
+# Welcome to Ivan Rahman's GitHub!
 
 Hi there! I'm **Ivan Rahman**, **Founder, Consultant, and Product Strategist** based in **Milwaukee, WI**. With over a decade of experience driving innovation across diverse industries, I specialize in leveraging **AI technologies**, **blockchain**, and **strategic design** to deliver impactful digital solutions.
 

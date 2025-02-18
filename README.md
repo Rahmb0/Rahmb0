@@ -1,7 +1,3 @@
-# Delta Ivan - Security & AI Innovation
-
-![Delta Ivan Logo](static/images/Delta-logo.png)
-
 ## About Me
 Product leader and founder with 15+ years of experience in AI, cybersecurity, and scalable solutions. I specialize in leveraging cutting-edge technologies to craft robust, enterprise-grade applications that drive business transformation.
 

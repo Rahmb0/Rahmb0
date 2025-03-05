@@ -22,7 +22,7 @@ Product leader and founder with 15+ years of experience in AI, cybersecurity, an
 
 ### Current Role
 - **Founder of Sync Ops**: Leading digital transformation and operational excellence initiatives
-- **Security & AI Consultant**: Helping enterprises implement robust security solutions
+- **Product & AI Consultant**: Helping enterprises develop and launch new products
 
 ### Previous Experience
 - **Director at Northwestern Mutual**: Led fintech innovation and AI-powered solutions
